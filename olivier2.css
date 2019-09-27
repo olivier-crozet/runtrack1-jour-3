@@ -1,0 +1,67 @@
+.cv
+   {
+    background-color:#C0C0C0;
+   }
+
+#cro
+    {
+    	margin-bottom: 5PX;
+     text-align: center;
+     font-size: 45px;
+     }
+.colone-gauche
+             {
+              text-align: center;
+              background-color:#7FF2F8;
+              margin-bottom: 100px;
+               max-width: 30%;
+                text-align: center;
+                height:900px;
+                font-size: 20px;
+                margin-top: 0px;
+                padding:10px;
+                float:left;
+               margin-right:0px;
+             } 
+.foto
+     {
+      margin-left:420px;
+      height:150px;
+      border-width: :2px;
+      border-style: solid;
+      box-shadow:6px 6PX 0px black;
+     }
+
+.infos
+      {
+      	text-align:center;
+      	background-color: #F8DE7F;
+      }
+
+.competence
+           {
+            text-align:center;
+            color:#7FF2F8;
+            font-size:25px;
+            }      
+.experience
+           {
+           	margin-left:180px;
+           	margin-top:100px;
+           }
+
+.formation
+           {
+           	margin-left:180px;
+           	margin-top:50px;
+           }
+
+.distinction
+           {
+           	text-align:center;
+           	font-size:20px;
+           	color: #F8DE7F;
+           	font-weight:bold;
+
+           }           
+
